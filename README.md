@@ -23,4 +23,4 @@ This project is a basic implementation of a Flipkart clone, focusing on the user
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/flipkart-clone.git
+git clone https://github.com/devarugved07012004/Flipkart_Clone.git
